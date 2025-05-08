@@ -90,6 +90,11 @@
             <artifactId>junit</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.camel</groupId>
+            <artifactId>camel-test-junit5</artifactId>
+            <version>4.11.0</version>
+        </dependency>
     </dependencies>
 
     <build>
